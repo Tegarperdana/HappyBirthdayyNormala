@@ -4,6 +4,9 @@ A beautiful, animated birthday greeting page built with **Vanilla JavaScript** a
 
 ## ✨ Features
 
+    ```bash
+    # Clone this repository or download it
+    $ git clone https://github.com/fajarghifar/happybirthday
 - 🎬 Smooth GSAP animations (typing effect, floating balloons, confetti, fireworks, and more)
 - 🧩 Modular component system — add, remove, or reorder sections by editing one file
 - 🌙 Dark / Light mode toggle
@@ -13,6 +16,17 @@ A beautiful, animated birthday greeting page built with **Vanilla JavaScript** a
 
 ## 🚀 Quick Start
 
+    # Open it with your text editor
+    $ code .
+    ```
+
+2. **Open with Live Server**
+
+    Your site is now running!
+
+3. **Deployment**
+
+    To make your site online, you can enable GitHub Pages for the repository (Settings -> Pages). Alternatively, you can use [Netlify](https://www.netlify.com/).
 1. **Download or clone** this repository
 2. **Edit `config.js`** to customize the name, photo, message, and sections
 3. **Right-click `index.html`** → **Open with Live Server** (VS Code) or simply open it in your browser
